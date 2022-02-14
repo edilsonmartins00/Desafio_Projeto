@@ -2,4 +2,4 @@
 desafio de projeto de criar repositorio 
 
 ## Links úteis
-[site do git](https://git-scm.com/)
+[Site de Download do Git](https://git-scm.com/)
